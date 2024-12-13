@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/SanhuezaA/SanhuezaA/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner.png" width="800"/>
+  <img decoding="async" src="[https://github.com/SanhuezaA/SanhuezaA/blob/main/Black%20Minimal%20Motivation%20Quote%20LinkedIn%20Banner%20(2).png]" width="800"/>
 </div>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alejandro-sanhueza-sazo-077987337)
